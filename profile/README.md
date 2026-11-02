@@ -41,13 +41,11 @@
 
 ## Sobre o projeto
 
-Descreva aqui o problema que o projeto resolve, o publico-alvo e o valor entregue pela solucao. Esta secao deve ser preenchida pelo grupo com base na proposta definida em UX e Metodologia de Projetos.
+O projeto Renovaí consiste em um ecossistema digital multiplataforma de gestão operacional e financeira de cooperativas de reciclagem, além de um marketplace de materiais com empresas recicladoras. O nosso objetivo é promover planejamento, eficiência e estrutura para as cooperativas e conectá-las com empresas recicladoras.
 
-Exemplos de informacoes a incluir:
+Para as cooperativas de reciclagem, garante eficiência, confiança e estrutura em seus processos, dada a necessidade de realizar uma gestão mais controlada e eficaz de seus recursos, sejam eles de materiais ou financeiros – possibilitando uma divisão mais justa de renda e responsabilidades entre os cooperados.
 
-- Qual problema social, ambiental ou de negocio o projeto aborda
-- Quem sao os usuarios da solucao
-- Qual o impacto esperado
+Para empresas recicladoras, como a Ambiental, da JBS Novos Negócios, providencia dados e relatórios relevantes para análises de impacto de sustentabilidade. Contribui também para a logística de troca de materiais, estabelecendo conexão entre empresas e cooperativas.
 
 ---
 
