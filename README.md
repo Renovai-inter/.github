@@ -41,8 +41,7 @@
 
 ## Sobre o projeto
 
-O projeto Renovaí consiste em um ecossistema digital multiplataforma de gestão operacional e financeira de cooperativas de reciclagem, além de um marketplace de materiais com empresas recicladoras. O nosso objetivo é promover planejamento, eficiência e estrutura para as cooperativas e conectá-las com empresas recicladoras.
-
+O projeto Renovaí consiste em um sistema digital multiplataforma de gestão operacional e financeira de cooperativas de reciclagem, além de um ambiente de negociação de materiais com empresas recicladoras. O nosso objetivo é promover planejamento, eficiência e estrutura para as cooperativas e conectá-las com empresas recicladoras.
 Para as cooperativas de reciclagem, garante eficiência, confiança e estrutura em seus processos, dada a necessidade de realizar uma gestão mais controlada e eficaz de seus recursos, sejam eles de materiais ou financeiros – possibilitando uma divisão mais justa de renda e responsabilidades entre os cooperados.
 
 Para empresas recicladoras, como a Ambiental, da JBS Novos Negócios, providencia dados e relatórios relevantes para análises de impacto de sustentabilidade. Contribui também para a logística de troca de materiais, estabelecendo conexão entre empresas e cooperativas.
